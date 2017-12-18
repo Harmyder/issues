@@ -3,7 +3,7 @@
 |  1. The Role of Algorithms in Computing              |                  |                  |                  |[LunBilyi](https://github.com/Harmyder/i2a/issues?q=assignee%3ALunBilyi+is%3Aopen)|
 |  2. Getting Started                                  |                  |                  |                  |[olgabyelova](https://github.com/Harmyder/i2a/issues?q=assignee%3Aolgabyelova+is%3Aopen)|
 |  3. Growth of Functions                              |                  |                  |                  |[toplinden](https://github.com/Harmyder/i2a/issues?q=assignee%3Atoplinden+is%3Aopen)|
-|  4. Divide-and-Conquer                               |                  |                  |                  |?|
+|  4. Divide-and-Conquer                               |                  |                  |                  |[fncamm]()|
 |  5. Probabilistic Analysis and Randomized Algorithms |                  |                  |                  |[LunBilyi](https://github.com/Harmyder/i2a/issues?q=assignee%3ALunBilyi+is%3Aopen)|
 |  6. Heapsort                                         |:white_check_mark:|:white_check_mark:|                  |[olgabyelova](https://github.com/Harmyder/i2a/issues?q=assignee%3Aolgabyelova+is%3Aopen)|
 |  7. Quicksort                                        |:white_check_mark:|:white_check_mark:|                  |[olgabyelova](https://github.com/Harmyder/i2a/issues?q=assignee%3Aolgabyelova+is%3Aopen)|
