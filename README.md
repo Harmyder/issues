@@ -3,7 +3,7 @@
 |  1. The Role of Algorithms in Computing              |                  |                  |                  |[LunBilyi](https://github.com/Harmyder/i2a/issues?q=assignee%3ALunBilyi+is%3Aopen)|
 |  2. Getting Started                                  |                  |                  |                  |[olgabyelova](https://github.com/Harmyder/i2a/issues?q=assignee%3Aolgabyelova+is%3Aopen)|
 |  3. Growth of Functions                              |                  |                  |                  |[toplinden](https://github.com/Harmyder/i2a/issues?q=assignee%3Atoplinden+is%3Aopen)|
-|  4. Divide-and-Conquer                               |                  |                  |                  |[fncamm](https://github.com/Harmyder/i2a/issues/assigned/fncamm)|
+|  4. Divide-and-Conquer                               |                  |                  |                  ||
 |  5. Probabilistic Analysis and Randomized Algorithms |                  |                  |                  |[LunBilyi](https://github.com/Harmyder/i2a/issues?q=assignee%3ALunBilyi+is%3Aopen)|
 |  6. Heapsort                                         |:white_check_mark:|:white_check_mark:|                  |[olgabyelova](https://github.com/Harmyder/i2a/issues?q=assignee%3Aolgabyelova+is%3Aopen)|
 |  7. Quicksort                                        |:white_check_mark:|:white_check_mark:|                  |[olgabyelova](https://github.com/Harmyder/i2a/issues?q=assignee%3Aolgabyelova+is%3Aopen)|
@@ -26,7 +26,7 @@
 | 24. Single-Source Shortest Paths                     |                  |                  |                  ||
 | 25. All-Pairs Shortest Paths                         |                  |                  |                  ||
 | 26. Maximum Flow                                     |                  |                  |                  ||
-| 27. Multithreaded Algorithms                         |                  |                  |                  |[ReAlUA](https://github.com/Harmyder/i2a/issues?q=assignee%3AReAlUA+is%3Aopen)|
+| 27. Multithreaded Algorithms                         |:white_check_mark:|                  |                  |[ReAlUA](https://github.com/Harmyder/i2a/issues?q=assignee%3AReAlUA+is%3Aopen)|
 | 28. Matrix Operations                                |                  |                  |                  |[Petro-Y](https://github.com/Harmyder/i2a/issues/assigned/Petro-Y)|
 | 29. Linear Programming                               |:white_check_mark:|:white_check_mark:|:white_check_mark:|[Harmyder](https://github.com/Harmyder/i2a/issues?q=assignee%3AHarmyder+is%3Aopen)|
 | 30. Polynomials and the FFT                          |                  |                  |                  |[Harmyder](https://github.com/Harmyder/i2a/issues?q=assignee%3AHarmyder+is%3Aopen)|
@@ -35,3 +35,5 @@
 | 33. Computational Geometry                           |                  |                  |                  |[VlasenkoDmytro](https://github.com/Harmyder/i2a/issues?q=assignee%3AVlasenkoDmytro+is%3Aopen)|
 | 34. NP-Completeness                                  |                  |                  |                  ||
 | 35. Approximation Algorithms                         |                  |                  |                  ||
+
+Назви відповідних .tex файлів можна знайти у файлі book.master
