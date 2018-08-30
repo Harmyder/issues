@@ -10,9 +10,9 @@
 |  9. Sorting in Linear Time                           |                  |                  |                  ||
 |  9. Medians and Order Statistics                     |                  |                  |                  ||
 | 10. Elementary Data Structures                       |                  |                  |                  ||
-| 11. Hash Tables                                      |                  |                  |                  ||
+| 11. Hash Tables                                      |         [x]         |                  |                  ||
 | 12. Binary Search Trees                              |                  |                  |                  ||
-| 13. Red-Black Trees                                  |                  |                  |                  ||
+| 13. Red-Black Trees                           sdfsdf       |                  |                  |                  ||
 | 14. Augmenting Data Structures                       |                  |                  |                  ||
 | 15. Dynamic Programming                              |                  |                  |                  |?|
 | 16. Greedy Algorithms                                |                  |                  |                  |?|
